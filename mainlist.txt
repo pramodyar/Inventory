@@ -1,1 +1,4 @@
 THIS IS THE MAIN INVENTORY LIST
+1. Laptops
+2. Desktops
+3. Printers
